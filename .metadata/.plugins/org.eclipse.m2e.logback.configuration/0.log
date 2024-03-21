@@ -6386,3 +6386,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-03-15 09:56:51,294 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-03-15 09:56:51,335 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-03-15 09:56:51,347 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Softwares\sts-4.14.1.RELEASE\microservices\Student-Service\src\test\resources
+2024-03-21 21:59:01,834 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
